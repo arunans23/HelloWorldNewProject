@@ -13,9 +13,9 @@
     <module>HelloWorldNewCompositeExporter</module>
   </modules>
   <scm>
-    <connection>scm:git:https://github.com/username/repository.git</connection>
-    <developerConnection>scm:git:https://github.com/username/repository.git</developerConnection>
-    <url>https://github.com/username/repository.git</url>
+    <connection>scm:git:https://github.com/arunans23/HelloWorldNewProject.git</connection>
+    <developerConnection>scm:git:https://github.com/arunans23/HelloWorldNewProject.git</developerConnection>
+    <url>https://github.com/arunans23/HelloWorldNewProject.git</url>
   </scm>
   <distributionManagement>
     <repository>
