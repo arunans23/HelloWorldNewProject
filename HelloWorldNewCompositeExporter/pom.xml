@@ -4,11 +4,11 @@
   <parent>
     <groupId>org.wso2.ei.cicd</groupId>
     <artifactId>HelloWorldNew</artifactId>
-    <version>1.0.9</version>
+    <version>1.0.10-SNAPSHOT</version>
   </parent>
   <groupId>org.wso2.ei.cicd</groupId>
   <artifactId>HelloWorldNewCompositeExporter</artifactId>
-  <version>1.0.9</version>
+  <version>1.0.10-SNAPSHOT</version>
   <packaging>carbon/application</packaging>
   <name>HelloWorldNewCompositeExporter</name>
   <description>HelloWorldNewCompositeExporter</description>
