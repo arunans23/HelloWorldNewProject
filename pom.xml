@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.wso2.ei.cicd</groupId>
   <artifactId>HelloWorldNew</artifactId>
-  <version>1.0.8</version>
+  <version>1.0.9-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>HelloWorldNew</name>
   <description>HelloWorldNew</description>
@@ -15,7 +15,7 @@
     <connection>scm:git:https://github.com/arunans23/HelloWorldNewProject.git</connection>
     <developerConnection>scm:git:https://github.com/arunans23/HelloWorldNewProject.git</developerConnection>
     <url>https://github.com/arunans23/HelloWorldNewProject.git</url>
-    <tag>HelloWorldNew-1.0.8</tag>
+    <tag>HEAD</tag>
   </scm>
   <distributionManagement>
     <repository>

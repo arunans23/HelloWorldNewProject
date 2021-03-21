@@ -4,11 +4,11 @@
   <parent>
     <groupId>org.wso2.ei.cicd</groupId>
     <artifactId>HelloWorldNew</artifactId>
-    <version>1.0.8</version>
+    <version>1.0.9-SNAPSHOT</version>
   </parent>
   <groupId>org.wso2.ei.cicd</groupId>
   <artifactId>HelloWorldNewConfigs</artifactId>
-  <version>1.0.8</version>
+  <version>1.0.9-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>HelloWorldNewConfigs</name>
   <description>HelloWorldNewConfigs</description>
